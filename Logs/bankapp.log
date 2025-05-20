@@ -4,3 +4,9 @@
 2025-05-20 16:20:25,034 - INFO - Taking Screenshot
 2025-05-20 16:20:25,553 - INFO - Test Case Passed: Bank Application URL is Opened
 
+2025-05-20 18:58:10,403 - INFO - Test Case Started: test_bankapp_url_001
+2025-05-20 18:58:10,404 - INFO - Opening the Bank Application URL: https://apps.credence.in
+2025-05-20 18:58:12,354 - INFO - Checking the Bank Application URL: Bank Application
+2025-05-20 18:58:12,413 - INFO - Taking Screenshot
+2025-05-20 18:58:12,903 - INFO - Test Case Passed: Bank Application URL is Opened
+

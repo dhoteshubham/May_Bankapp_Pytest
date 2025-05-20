@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_user_profile_001.py:28 Test Case Started: test_bankapp_url_001
+[32mINFO    [0m root:test_user_profile_001.py:29 Opening the Bank Application URL: https://apps.credence.in
+[32mINFO    [0m root:test_user_profile_001.py:32 Checking the Bank Application URL: Bank Application
+[32mINFO    [0m root:test_user_profile_001.py:36 Taking Screenshot
+[32mINFO    [0m root:test_user_profile_001.py:38 Test Case Passed: Bank Application URL is Opened
