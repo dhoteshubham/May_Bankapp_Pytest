@@ -56,6 +56,7 @@ signup_url = ReadConfig_class.signup_url()
 log = logger_class.log_gen_method()
 @pytest.fixture
 def bankapp_login(setup):
+
     log.info(f"Opening the Bank Application URL: {base_url}")
     # Initialize the test case
     driver.get(login_url)
